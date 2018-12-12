@@ -13,5 +13,4 @@ elif(gaji<75):
 	print(40)
 else :
 	print(20)
-	print(50)
 
